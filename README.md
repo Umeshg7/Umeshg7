@@ -2,7 +2,7 @@
 <h3 align="center">A passionate learner of coding..</h3>
 
 <img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/127641066/224552495-bad595bf-a79a-404c-9dff-d09038b129a8.png)
-">
+"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshg7&label=Profile%20views&color=0e75b6&style=flat" alt="umeshg7" /> </p>
 
