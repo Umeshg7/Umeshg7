@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umesh Gautam</h1>
 <h3 align="center">A passionate learner of coding..</h3>
 
-<img align="right" alt="coding" width="400"src="![image](https://user-images.githubusercontent.com/127641066/224552939-aa49e818-3feb-4ad8-a14c-63f032976170.png)
+<img align= "right" alt="coding" width="400"src="![image](https://user-images.githubusercontent.com/127641066/224552939-aa49e818-3feb-4ad8-a14c-63f032976170.png)
 "
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshg7&label=Profile%20views&color=0e75b6&style=flat" alt="umeshg7" /> </p>
 
