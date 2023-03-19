@@ -3,7 +3,7 @@
   </a></P>
   
   <p align="center" <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=...Welcome+to+my+profile😊.....&center=true&size=35">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=...Welcome+to+my+profile😊.....aaa&center=true&size=35">
   </a></P>
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=umeshg7&label=Profile%20views&color=0e75b6&style=flat" alt="umeshg7" /> </p>
