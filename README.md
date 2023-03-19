@@ -24,9 +24,18 @@
 <p align="center">- ⚡ Fun fact **I'm a introvert**
  </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/sandzgautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandzgautam" height="30" width="40" /></a>
+<p align="center">
+<h3 align="center" > <img src="https://img.icons8.com/dusk/64/000000/share-2.png" width="20" height="20" style="margin-right: 50px;"> Connect with me 🤝 </h3>
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/umeshg7/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/umeshg7">
+					<img src="https://img.icons8.com/doodle/48/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/sandzgautam">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+      </div>
+</p>
+
 <a href="https://www.youtube.com/c/pt psycho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pt psycho" height="30" width="40" /></a>
 </p>
 
