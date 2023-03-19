@@ -11,7 +11,7 @@
 </div> 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently studing in **Herald college**
+<p align="center"> - 🔭 I’m currently studing in **Herald college**
 
 - 🌱 I’m currently learning **python program**
 
@@ -22,6 +22,7 @@
 - 📫 How to reach me **sandeshgautam155@gmail.com**
 
 - ⚡ Fun fact **I'm a introvert**
+ </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
