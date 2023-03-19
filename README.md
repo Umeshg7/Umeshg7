@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Umesh+Gautam....;New+in+programming+|+;Nice+to+meet+you!...+;Have+a+great+day...&center=true&size=35">
   </a></P>
   <div>
-<h2>  <P align="left">It's about me </P> </h2>
+	<h2>  <P align="center"><b>It's about me</b> </P> </h2>
 
   <p align="center"> - 🔭 I’m currently studing in **Herald college**
 
