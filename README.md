@@ -2,7 +2,7 @@
 <h2 align="center">𝓐 𝓹𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓵𝓮𝓪𝓻𝓷𝓮𝓻 𝓸𝓯 𝓬𝓸𝓭𝓲𝓷𝓰
  </h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=umeshg7&label=Profile%20views&color=0e75b6&style=flat" alt="umeshg7" /> </p>
-<p align="center"><img alt="GIF" src="https://media3.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47dto69iwcwmrc49u263ypqeimsi47bgk8mlw3kjfp&rid=giphy.gif"  width="700" /> </p>
+<p align="center"><img alt="GIF" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  width="700" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umeshg7" alt="umeshg7" /></a> </p>
 
