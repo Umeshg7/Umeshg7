@@ -4,6 +4,10 @@
 <p align="center"><img alt="GIF" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  width="500" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umeshg7" alt="umeshg7" /></a> </p>
+<div align="center">
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=r0shish&show_icons=true&count_private=true&include_all_commits=true&theme=swift)[![GitHub Streak](https://streak-stats.demolab.com/?user=r0shish&theme=highcontrast)](https://git.io/streak-stats)
+</div>
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
