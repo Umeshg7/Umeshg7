@@ -6,9 +6,7 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=umeshg7&label=Profile%20views&color=0e75b6&style=flat" alt="umeshg7" /> </p>
 
 <p align="center"><img alt="GIF" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  width="500" /> </p>
-
-	
-	<h2>  <P align="center"><b>It's about me : </b> </P> </h2>
+	<h2>  <P align="center">It's about me :  </P> </h2>
 
   <p align="center"> - 🔭 I’m currently studing in **Herald college**
 
