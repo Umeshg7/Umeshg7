@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umesh Gautam</h1>
 <h2 align="center">A passionate learner of coding </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshg7&label=Profile%20views&color=0e75b6&style=flat" alt="umeshg7" /> </p>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"  width="435" />
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47vg27jglf7ljrowcby4hgn1qdbixcua327ta0tilq&rid=giphy.gif"  width="435" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umeshg7" alt="umeshg7" /></a> </p>
 
