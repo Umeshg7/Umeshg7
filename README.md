@@ -1,5 +1,6 @@
 <h1 align="center">𝓗𝓲 👋, 𝓘'𝓶 𝓤𝓶𝓮𝓼𝓱 𝓖𝓪𝓾𝓽𝓪𝓶</h1>
-<h2 align="center">A passionate learner of coding </h2>
+<h2 align="center">𝓐 𝓹𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓵𝓮𝓪𝓻𝓷𝓮𝓻 𝓸𝓯 𝓬𝓸𝓭𝓲𝓷𝓰
+ </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshg7&label=Profile%20views&color=0e75b6&style=flat" alt="umeshg7" /> </p>
 <img alt="GIF" src="https://media4.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47vg27jglf7ljrowcby4hgn1qdbixcua327ta0tilq&rid=giphy.gif"  width="500" />
 
