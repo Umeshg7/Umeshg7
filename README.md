@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Umesh+Gautam....;New+in+programming+|+;Nice+to+meet+you!...+;Have+a+great+day...&center=true&size=28">
   </a></P>
   <p align="center" <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;𝓐+𝓹𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮+𝓵𝓮𝓪𝓻𝓷𝓮𝓻+𝓸𝓯+𝓬𝓸𝓭𝓲𝓷𝓰....&center=true&size=28">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=𝓐+𝓹𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮+𝓵𝓮𝓪𝓻𝓷𝓮𝓻+𝓸𝓯+𝓬𝓸𝓭𝓲𝓷𝓰....&center=true&size=28">
   </a></P>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=umeshg7&label=Profile%20views&color=0e75b6&style=flat" alt="umeshg7" /> </p>
 <p align="center"><img alt="GIF" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  width="500" /> </p>
