@@ -1,5 +1,7 @@
 <p align="center" <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Umesh+Gautam....;New+in+programming+|+;Nice+to+meet+you!...+;Have+a+great+day...&center=true&size=35">
+  </a></P>  <p align="center" <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=;oyu+Welcome+to+my+profile😊....;&center=true&size=30">
   </a></P>
   <div>
 	<h2>  <P align="center"><b>It's about me : </b> </P> </h2>
@@ -16,7 +18,7 @@
 
 <p align="center">- ⚡ Fun fact **I'm a introvert**
 	</div><img src="https://komarev.com/ghpvc/?username=umeshg7&label=Profile%20views&color=0e75b6&style=flat" alt="umeshg7" /> </p>
-<p align="right"><img alt="GIF" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  width="500" />
+<p align="center"><img alt="GIF" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  width="500" />
 
   <p align="center" <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=;oyu+Welcome+to+my+profile😊....;&center=true&size=30">
