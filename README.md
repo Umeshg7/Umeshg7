@@ -13,15 +13,15 @@
 
 <p align="center"> - 🔭 I’m currently studing in **Herald college**
 
-- 🌱 I’m currently learning **python program**
+<p align="center"> - 🌱 I’m currently learning **python program**
 
-- 👯 I’m looking to collaborate on **System development**
+<p align="center">- 👯 I’m looking to collaborate on **System development**
 
-- 🤝 I’m looking for help with **Expert programmer**
+<p align="center">- 🤝 I’m looking for help with **Expert programmer**
 
-- 📫 How to reach me **sandeshgautam155@gmail.com**
+<p align="center">- 📫 How to reach me **sandeshgautam155@gmail.com**
 
-- ⚡ Fun fact **I'm a introvert**
+<p align="center">- ⚡ Fun fact **I'm a introvert**
  </p>
 
 <h3 align="left">Connect with me:</h3>
