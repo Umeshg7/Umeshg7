@@ -18,7 +18,7 @@
 	</div>
 	
  <img src="https://komarev.com/ghpvc/?username=umeshg7&label=Profile%20views&color=0e75b6&style=flat" alt="umeshg7" /> </p>
-<p align="right"><img alt="GIF" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  width="300" />
+<p align="right"><img alt="GIF" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  width="200" />
 
   <p align="center" <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=;oyu+Welcome+to+my+profile😊....;&center=true&size=30">
@@ -32,18 +32,7 @@
 </div> 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p align="center"> - 🔭 I’m currently studing in **Herald college**
 
-<p align="center"> - 🌱 I’m currently learning **python program**
-
-<p align="center">- 👯 I’m looking to collaborate on **System development**
-
-<p align="center">- 🤝 I’m looking for help with **Expert programmer**
-
-<p align="center">- 📫 How to reach me **sandeshgautam155@gmail.com**
-
-<p align="center">- ⚡ Fun fact **I'm a introvert**
- </p>
 
 <p align="center">
 <h3 align="center" > <img src="https://img.icons8.com/dusk/64/000000/share-2.png" width="20" height="20" style="margin-right: 50px;"> Connect with me 🤝 </h3>
