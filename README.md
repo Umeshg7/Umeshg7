@@ -20,9 +20,6 @@
 	</div><img src="https://komarev.com/ghpvc/?username=umeshg7&label=Profile%20views&color=0e75b6&style=flat" alt="umeshg7" /> </p>
 <p align="center"><img alt="GIF" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  width="500" />
 
-  <p align="center" <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=;oyu+Welcome+to+my+profile😊....;&center=true&size=30">
-  </a></P>
   
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umeshg7" alt="umeshg7" /></a> </p>
 
@@ -46,6 +43,10 @@
 	<a style="https://www.youtube.com/c/pt psycho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pt psycho" height="30" width="40" /></a>
       </div>
 </p>
+<img src="https://komarev.com/ghpvc/?username=umeshg7&label=Profile%20views&color=0e75b6&style=flat" alt="umeshg7" /> </p>
+<p align="center"><img alt="GIF" src="<img src="https://komarev.com/ghpvc/?username=umeshg7&label=Profile%20views&color=0e75b6&style=flat" alt="umeshg7" /> </p>
+<p align="center"><img alt="GIF" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  width="500" />
+"  width="500" />
 
 
 <h3 align="left">Languages and Tools:</h3>
