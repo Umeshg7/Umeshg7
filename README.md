@@ -1,7 +1,7 @@
 <p align="center" <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Umesh+Gautam....;New+in+programming+|+;Nice+to+meet+you!...+;Have+a+great+day...&center=true&size=35">
   </a></P>
-  <P align="left">It's about me </P>
+<h2>  <P align="left">It's about me </P> </h2>
   <p align="left"> - 🔭 I’m currently studing in **Herald college**
 
 <p align="left"> - 🌱 I’m currently learning **python program**
