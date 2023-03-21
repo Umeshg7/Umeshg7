@@ -1,7 +1,7 @@
 <p align="center" <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Umesh+Gautam....;New+in+programming+|+;Nice+to+meet+you!...+;Have+a+great+day...&center=true&size=35">
   </a></P>  <p align="center" <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=;oyu+Wₑₗcₒₘₑ+ₜₒ+ₘy+ₚᵣₒfᵢₗₑ😊....;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=;oyu+Wₑₗcₒₘₑ+ₜₒ+ₘy+ₚᵣₒfᵢₗₑ😊......;&center=true&size=40">
   </a></P>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=umeshg7&label=Profile%20views&color=0e75b6&style=flat" alt="umeshg7" /> </p>
 
