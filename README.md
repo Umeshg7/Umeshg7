@@ -9,7 +9,7 @@
 
   <p align="center"> - 🔭 I’m currently studing in **Herald college**
 
-<p align="center"> - 🌱 I’m currently learning **python program**
+<p align="center"> - 🌱 I’m currently learning in **fourth semester**
 
 <p align="center">- 👯 I’m looking to collaborate on **System development**
 
