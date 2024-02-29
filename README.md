@@ -7,7 +7,7 @@
 <p align="center"><img alt="GIF" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  width="500" /> </p>
 	<h2>  <P align="center">It's about me :  </P> </h2>
 
-  <p align="center"> - 🔭 I’m currently studing in **Herald college**
+  <p align="center"> - 🔭 I’m currently studing in ** Herald college **
 
 <p align="center"> - 🌱 I’m currently learning in **fourth semester**
 
